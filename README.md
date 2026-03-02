@@ -61,24 +61,8 @@ Añade rarezas reales de loot, equipo con sockets, gemas con efectos únicos, va
 - Progresión por etapas: el mundo se vuelve más difícil y el loot mejora conforme avanzas.  
 - Se siente satisfactorio desde early game hasta late game.
 
-### ❄️🔥 Climate survival / Supervivencia con clima
-- Extreme environments matter: cold zones require preparation.
-- The world pushes you to adapt your gear and strategy.
-
 - Los entornos extremos importan: las zonas frías requieren preparación.  
 - El mundo te obliga a adaptarte con equipo y estrategia.
-
-### 📚 Advanced enchanting / Encantamiento avanzado
-- Improved enchanting progression with higher and more meaningful enchant levels.
-- Still fits naturally into vanilla survival.
-
-- Progresión de encantamientos mejorada con niveles más altos y útiles.  
-- Pero sin salirse del estilo vanilla.
-
-### 🎒 Backpacks & QoL / Mochilas y QoL
-- Persistent backpacks and convenience mechanics to keep exploration smooth and fun.
-
-- Mochilas persistentes y mejoras de calidad de vida para explorar sin límites.
 
 ---
 
@@ -87,10 +71,7 @@ Añade rarezas reales de loot, equipo con sockets, gemas con efectos únicos, va
 - **Loot rarity system** with powerful effects  
 - **Socketed gear + gem builds**  
 - **Elite mob variants** and **scaling bosses**  
-- **World tier progression** (difficulty & rewards scale)  
-- **Climate survival mechanics**  
-- **Advanced enchanting**  
-- **Backpacks & QoL**  
+- **World tier progression** (difficulty & rewards scale)   
 - **Highly configurable**: enable/disable modules, tune balance, loot tables, tiers, and more  
 - **Plug & Play** for Paper 1.21.x  
 - **Performance-friendly** design  
