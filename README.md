@@ -91,6 +91,14 @@ Muchas traducciones ya vienen incluidas en la carpeta `lang/`.
 
 ---
 
+## Inspiración y Créditos / Inspiration & Credits
+
+* *Theosis* nació de la admiración por el mod [Apotheosis](https://modrinth.com/mod/apotheosis) (creado por [Shadows_of_Fire](https://modrinth.com/user/Shadows-of-Fire)). Al fascinarme sus mecánicas, quise programar desde cero una alternativa dedicada para servidores Spigot/Paper/Folia, permitiendo que cualquier jugador disfrute de una experiencia similar sin necesidad de instalar mods en su cliente.
+
+* *Theosis* was born out of love for the [Apotheosis](https://modrinth.com/mod/apotheosis) mod (created by [Shadows_of_Fire](https://modrinth.com/user/Shadows-of-Fire)). Inspired by its mechanics, I built this plugin completely from scratch for Spigot/Paper/Folia servers so everyone can enjoy a close experience without needing client-side mods.
+
+---
+
 ## 🔓 Open-source note / Nota sobre código abierto
 
 **When the day comes that I can no longer maintain the plugin and it’s complete enough, I will open-source the code.**  
